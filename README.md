@@ -16,6 +16,21 @@ This project analyzes cancellation trends in hotel bookings, focusing on City Ho
 
 ---
 
+The **"Hotel Booking Cancellation"** dataset contains **119,390 entries** with **32 columns**. Here’s a brief overview of some key features:
+
+- **hotel**: Type of hotel (either "City Hotel" or "Resort Hotel").
+- **is_canceled**: Indicates if the booking was canceled (1) or not (0).
+- **lead_time**: Number of days between booking and arrival.
+- **arrival_date_year/month/week_number/day_of_month**: Detailed information about the arrival date.
+- **stays_in_weekend_nights** and **stays_in_week_nights**: Number of weekend and weekday nights stayed.
+- **adults**, **children**, **babies**: Number of guests by category.
+- **meal**: Type of meal booked.
+- **country**: Guest’s country of origin.
+- **market_segment** and **distribution_channel**: Source of booking (e.g., travel agents, groups).
+- **adr**: Average daily rate (price per day of stay).
+- **reservation_status**: Current status of the reservation (e.g., "Check-Out", "Canceled").
+---
+
 ## Business Problem 🎯
 
 City Hotels and Resort Hotels have observed high cancellation rates, resulting in:
