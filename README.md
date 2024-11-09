@@ -4,18 +4,6 @@ This project analyzes cancellation trends in hotel bookings, focusing on City Ho
 
 ---
 
-## Table of Contents
-
-- [Business Problem](#business-problem)
-- [Assumptions](#assumptions)
-- [Research Questions](#research-questions)
-- [Hypotheses](#hypotheses)
-- [Analysis and Findings](#analysis-and-findings)
-- [Suggestions](#suggestions)
-- [Conclusion](#conclusion)
-
----
-
 The **"Hotel Booking Cancellation"** dataset contains **119,390 entries** with **32 columns**. Here’s a brief overview of some key features:
 
 - **hotel**: Type of hotel (either "City Hotel" or "Resort Hotel").
@@ -30,6 +18,20 @@ The **"Hotel Booking Cancellation"** dataset contains **119,390 entries** with *
 - **adr**: Average daily rate (price per day of stay).
 - **reservation_status**: Current status of the reservation (e.g., "Check-Out", "Canceled").
 ---
+
+## Table of Contents
+
+- [Business Problem](#business-problem)
+- [Assumptions](#assumptions)
+- [Research Questions](#research-questions)
+- [Hypotheses](#hypotheses)
+- [Analysis and Findings](#analysis-and-findings)
+- [Suggestions](#suggestions)
+- [Conclusion](#conclusion)
+
+---
+
+
 
 ## Business Problem 🎯
 
