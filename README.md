@@ -1,3 +1,4 @@
+![Marketing Blog YouTube Thumbnail](https://github.com/user-attachments/assets/ef0bb1b8-4c02-4c3a-a78b-cf666f7aca93)
 # Hotel Booking Cancellation Analysis
 
 This project analyzes cancellation trends in hotel bookings, focusing on City Hotels and Resort Hotels. High cancellation rates have negatively impacted revenue and occupancy rates, leading to inefficiencies in hotel operations. This analysis aims to provide insights and suggestions to reduce cancellations and optimize hotel revenues.
